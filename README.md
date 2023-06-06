@@ -1,2 +1,2 @@
-# Sun-Sense: Accurate Solar Energy Projections Using Deep Learning
+# Sun-Sense: Accurate Solar Energy Projections With Deep Learning
 
