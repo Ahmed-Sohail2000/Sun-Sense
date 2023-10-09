@@ -61,7 +61,7 @@ The regional statistics of solar resource and PVOUT are calculated from long-ter
 
 ## 1.5 **Data Visualization 📊**
 
-![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/5367ad33-b414-4554-a503-f873722bc328)
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/2acec537-157d-46a0-9cf2-7b801f179ffa)
 
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/c0963727-4695-45c5-b572-baa76ca3d146)
 
