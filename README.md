@@ -63,9 +63,9 @@ The regional statistics of solar resource and PVOUT are calculated from long-ter
 
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/c0963727-4695-45c5-b572-baa76ca3d146)
 
-![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/f048fd42-8806-4c6b-b64e-1ba34734bddd)
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/98b0dfe0-4743-4e9e-a08b-2860d5f12b03)
 
-![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/731cf73e-d97b-4bfd-b0b5-97fbe306ccc3)
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/99e23dad-7c72-457c-9a32-0adb3a404f3d)
 
 # **Chapter 2: Modelling Experiments with Deep Learning 🖥️🧠🧮**
 
@@ -112,7 +112,8 @@ It's important to experiment with different architectures and select the one tha
 
 ## 3.7 **Compare Models**
 
-![Uploading image.png…]()
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/f048fd42-8806-4c6b-b64e-1ba34734bddd)
+
 
 The majority of our deep learnign models are on par with the rest except for `model_3`, `naive_forecast`, and `model_2`. The best performing model is `model_6_multivariate` followed by `Conv1D`, `LSTM`, and `model_1`. The `ensemble_model` performed better than the `NBEATS` model which goes to show the complexity and size of layers does not always determine the suitability of that model for a certain type of data and how which model are better suited based on experimentation.
 
