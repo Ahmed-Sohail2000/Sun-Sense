@@ -63,9 +63,9 @@ The regional statistics of solar resource and PVOUT are calculated from long-ter
 
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/c0963727-4695-45c5-b572-baa76ca3d146)
 
-![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/98b0dfe0-4743-4e9e-a08b-2860d5f12b03)
-
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/99e23dad-7c72-457c-9a32-0adb3a404f3d)
+
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/98b0dfe0-4743-4e9e-a08b-2860d5f12b03)
 
 # **Chapter 2: Modelling Experiments with Deep Learning 🖥️🧠🧮**
 
@@ -109,6 +109,8 @@ It's important to experiment with different architectures and select the one tha
 ## 3.6 **Model 9: Train a model on full historical data to make predictions into the future**
 
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/5367ad33-b414-4554-a503-f873722bc328)
+
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/ad1589a5-7662-48be-909a-d1d19c995db1)
 
 ## 3.7 **Compare Models**
 
