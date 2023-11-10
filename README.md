@@ -114,7 +114,7 @@ It's important to experiment with different architectures and select the one tha
 
 ## 3.8 **Compare Models**
 
-![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/f048fd42-8806-4c6b-b64e-1ba34734bddd)
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/f4095e0f-0144-404d-ab7b-0b83f6a7ffe6)
 
 The majority of our deep learnign models are on par with the rest except for `model_3`, `naive_forecast`, and `model_2`. The best performing model is `model_6_multivariate` followed by `Conv1D`, `LSTM`, and `model_1`. The `ensemble_model` performed better than the `NBEATS` model which goes to show the complexity and size of layers does not always determine the suitability of that model for a certain type of data and how which model are better suited based on experimentation.
 
