@@ -116,7 +116,7 @@ It's important to experiment with different architectures and select the one tha
 
 ![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/f4095e0f-0144-404d-ab7b-0b83f6a7ffe6)
 
-The majority of our deep learnign models are on par with the rest except for `model_3`, `naive_forecast`, and `model_2`. The best performing model is `model_6_multivariate` followed by `Conv1D`, `LSTM`, and `model_1`. The `ensemble_model` performed better than the `NBEATS` model which goes to show the complexity and size of layers does not always determine the suitability of that model for a certain type of data and how which model are better suited based on experimentation.
+The majority of our deep learnign models are on par with the rest except for `model_3`, `naive_forecast`, and `model_2`. The best performing model is `model_6_full_data` followed by `model_6_multivariate`, `Conv1D`, `LSTM`, and `model_1`. The `ensemble_model` performed better than the `NBEATS` model which goes to show the complexity and size of layers does not always determine the suitability of that model for a certain type of data and how which model are better suited based on experimentation.
 
 # 3.9 **Prophet AI 🧑‍🚀⌚**
 
@@ -143,9 +143,17 @@ Prophet has gained popularity in industries that require accurate and intuitive 
 
 * Prophet AI Tutorial: https://www.kaggle.com/code/prashant111/tutorial-time-series-forecasting-with-prophet/notebook
 
-![newplot](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/01798d33-eecf-4f0b-9c10-c5354b9460f3)
+![image](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/88ebad8a-bc83-4218-a60b-1d67bb59d7c3)
+
+The X-axis represents the years and the y-axis represents the solar irradiance values that depict the actual values which are indicated by black spots vs the predicted values which are the blue line. 
 
 ## 4.0 **Future Improvements, Extra curriculum, & Resources 📓🧰**
+
+### Summary
+
+![boy](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/1200a53f-d833-4906-9b27-c5b6882395d2)
+
+The `model 6 full data` compared against the `Prophet-AI` value for October 2nd, 2023 and it was measured against the actual solar energy value from 3 different solar pv systems. The results showed that prophet-ai predicted value of 5.67 kWh/m^2/day had an average energy deviation of 93 kWh whilst model 6 full data on the other hand with a predicted value of 3.97 kWh/m^/day had an average energy deviation of 218.3 kWh which means that `Prophet-AI` was much accurate compared to `model 6 full data`. The model can be further improved by implementing additional weather variables correlating to the solar irradiance values which would affect the solar energy production and produce a different result.
 
 There are some improvements and experiments that can be made in our time series analysis models and by applying and implementing this practice can definitely lead to understanding the concept of the proposed models and understand why one would perform this operation over the other.
 
