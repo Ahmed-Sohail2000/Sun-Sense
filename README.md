@@ -147,14 +147,13 @@ Prophet has gained popularity in industries that require accurate and intuitive 
 
 The X-axis represents the years and the y-axis represents the solar irradiance values that depict the actual values which are indicated by black spots vs the predicted values which are the blue line. 
 
-## 4.0 **Future Improvements, Extra curriculum, & Resources 📓🧰**
-
-### Summary
+## 4.0 **Project Summary📓🧰**
 
 ![boy](https://github.com/Ahmed-Sohail2000/Sun-Sense-Project/assets/107795296/1200a53f-d833-4906-9b27-c5b6882395d2)
 
 The `model 6 full data` compared against the `Prophet-AI` value for October 2nd, 2023 and it was measured against the actual solar energy value from 3 different solar pv systems. The results showed that prophet-ai predicted value of 5.67 kWh/m^2/day had an average energy deviation of 93 kWh whilst model 6 full data on the other hand with a predicted value of 3.97 kWh/m^/day had an average energy deviation of 218.3 kWh which means that `Prophet-AI` was much accurate compared to `model 6 full data`. The model can be further improved by implementing additional weather variables correlating to the solar irradiance values which would affect the solar energy production and produce a different result.
 
+### Future Improvements 
 There are some improvements and experiments that can be made in our time series analysis models and by applying and implementing this practice can definitely lead to understanding the concept of the proposed models and understand why one would perform this operation over the other.
 
 1. **Hyperparameter Tuning:** Fine-tune the hyperparameters of your best-performing model. This could include adjusting learning rates, batch sizes, the number of layers or units in your neural network, etc. Hyperparameter optimization techniques like grid search or random search can help with this.
@@ -189,7 +188,7 @@ There are some improvements and experiments that can be made in our time series 
 
 16. **Feedback Loop:** If this project is part of a larger system or business process, establish a feedback loop to continuously improve your models as more data becomes available.
 
-## 3.9 **Extra Curriculum & Resources**
+### Extra Curriculum & Resources
 
 Extra Curriculum - https://dev.mrdbourke.com/tensorflow-deep-learning/10_time_series_forecasting_in_tensorflow/#extra-curriculum7
 
